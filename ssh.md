@@ -1,5 +1,7 @@
 # Configure SSH Key-Based Authentication on a Linux Server
 
+![alt text](image.png)
+
 - Step 1 — Creating SSH Keys
 
 ```
